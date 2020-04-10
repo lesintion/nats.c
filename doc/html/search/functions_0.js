@@ -51,8 +51,8 @@ var searchData=
   ['natsconnection_5fsubscribe',['natsConnection_Subscribe',['../group__conn_sub_group.html#gaefab965b5645798d47f9244f2b3fe3fb',1,'nats.h']]],
   ['natsconnection_5fsubscribesync',['natsConnection_SubscribeSync',['../group__conn_sub_group.html#ga17574d5165f7e285462e3d3b2709edf4',1,'nats.h']]],
   ['natsconnection_5fsubscribetimeout',['natsConnection_SubscribeTimeout',['../group__conn_sub_group.html#gacb2c83b58b7909715424cbc327fdd404',1,'nats.h']]],
-  ['natsinbox_5fcreate',['natsInbox_Create',['../group__inbox_group.html#ga3d59c517d5aa0827b22e66a308a8fe6e',1,'nats.h']]],
-  ['natsinbox_5fdestroy',['natsInbox_Destroy',['../group__inbox_group.html#gac3db6bd01235144886cb0ee5cf444048',1,'nats.h']]],
+  ['natsinbox_5fcreate',['natsInbox_Create',['../group__inbox_group.html#gaa1ec779a0b7ead54b78da05533848b6d',1,'nats.h']]],
+  ['natsinbox_5fdestroy',['natsInbox_Destroy',['../group__inbox_group.html#gabd6444fb8f28afb9c2b6645945f46cfe',1,'nats.h']]],
   ['natslibevent_5fattach',['natsLibevent_Attach',['../group__libevent_functions.html#ga30c00f21a5251ee9fde09c1f2b429cd2',1,'libevent.h']]],
   ['natslibevent_5fdetach',['natsLibevent_Detach',['../group__libevent_functions.html#gaac76f5937329a8650f69c6bd8af36cd5',1,'libevent.h']]],
   ['natslibevent_5finit',['natsLibevent_Init',['../group__libevent_functions.html#ga195d269473332931fd0fede0bac3309e',1,'libevent.h']]],
@@ -132,6 +132,7 @@ var searchData=
   ['natssubscription_5fnextmsg',['natsSubscription_NextMsg',['../group__sub_group.html#ga6538a5d78dfb0f16514b94c8e74c11af',1,'nats.h']]],
   ['natssubscription_5fnodeliverydelay',['natsSubscription_NoDeliveryDelay',['../group__sub_group.html#ga38f1e41fc7619101fc4aa52014dd5428',1,'nats.h']]],
   ['natssubscription_5fqueuedmsgs',['natsSubscription_QueuedMsgs',['../group__sub_group.html#ga8a37b2d5290da3aecc05483d79e7e254',1,'nats.h']]],
+  ['natssubscription_5fsetoncompletecb',['natsSubscription_SetOnCompleteCB',['../group__sub_group.html#gaea632f845d473e7461b134c0e7bf4077',1,'nats.h']]],
   ['natssubscription_5fsetpendinglimits',['natsSubscription_SetPendingLimits',['../group__sub_group.html#ga68a7cea89e75c529a7dd3bb77303dda4',1,'nats.h']]],
   ['natssubscription_5funsubscribe',['natsSubscription_Unsubscribe',['../group__sub_group.html#gaee87f8be0e6c2a4693ba2cea070583ba',1,'nats.h']]],
   ['natssubscription_5fwaitfordraincompletion',['natsSubscription_WaitForDrainCompletion',['../group__sub_group.html#ga0408c9b6e4ad4078ac0267656ace222d',1,'nats.h']]]
